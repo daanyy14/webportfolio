@@ -1,7 +1,74 @@
-#danyy{
-	font-family:'Darker Grotesque', sans-serif;
+html{
+	scroll-behavior: smooth;
 }
 
+body{
+		background-image: url(https://cdn.crispedge.com/8a2be2.png);
+}
+
+#about{
+	font-family: Roboto;
+	font-size: 20px;
+}
+#danyy{
+	font-family: Open Sans;
+}
 #banner{
-	font-family: Darker Grotesque;
+	background-image: url(https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1820&q=80);
+	
+	background-size: cover;
+
+	background-position: center;
+	color: white;
+}
+
+
+
+#aboutme{
+	font-family: Open Sans;
+	color: blueviolet;
+}
+
+#tool{
+	font-family: Open Sans;
+	color: blueviolet;
+}
+
+#contacts{
+	font-family: Open Sans;
+	color: blueviolet;
+}
+
+#visit{
+	font-family: Open Sans;
+	color: blueviolet;
+}
+
+#tool{
+	font-family: Open Sans;
+	color: blueviolet;
+}
+
+.map-container-2{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-2 iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+#map{
+	height: 300px;
+	width: 500px;
+}
+
+#danilo{
+	font-family: Open Sans;
+	color: blueviolet;
 }
